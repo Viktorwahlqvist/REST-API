@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "color": "Red",
+    "price": 15000,
+    "available": true
+  },
+  {
+    "id": 2,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "color": "Blue",
+    "price": 18000,
+    "available": false
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2021,
+    "color": "Black",
+    "price": 20000,
+    "available": true
+  },
+  {
+    "id": 4,
+    "make": "BMW",
+    "model": "320i",
+    "year": 2018,
+    "color": "White",
+    "price": 22000,
+    "available": true
+  },
+  {
+    "id": 5,
+    "make": "Audi",
+    "model": "A3",
+    "year": 2022,
+    "color": "Silver",
+    "price": 25000,
+    "available": false
+  },
+  {
+    "id": 6,
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2017,
+    "color": "Green",
+    "price": 13000,
+    "available": true
+  },
+  {
+    "id": 7,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2018,
+    "color": "Yellow",
+    "price": 16000,
+    "available": true
+  },
+  {
+    "id": 8,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2020,
+    "color": "Purple",
+    "price": 14000,
+    "available": false
+  },
+  {
+    "id": 9,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2021,
+    "color": "Grey",
+    "price": 30000,
+    "available": true
+  },
+  {
+    "id": 10,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2022,
+    "color": "White",
+    "price": 35000,
+    "available": true
+  },
+  {
+    "id": 11,
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2019,
+    "color": "Blue",
+    "price": 28000,
+    "available": false
+  },
+  {
+    "id": 12,
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "year": 2021,
+    "color": "Black",
+    "price": 29000,
+    "available": true
+  },
+  {
+    "id": 13,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "color": "Pink",
+    "price": 24000,
+    "available": true
+  },
+  {
+    "id": 14,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2022,
+    "color": "Orange",
+    "price": 27000,
+    "available": false
+  },
+  {
+    "id": 15,
+    "make": "Kia",
+    "model": "Sorento",
+    "year": 2019,
+    "color": "Brown",
+    "price": 23000,
+    "available": true
+  },
+  {
+    "id": 16,
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2020,
+    "color": "Teal",
+    "price": 26000,
+    "available": true
+  },
+  {
+    "id": 17,
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2021,
+    "color": "Beige",
+    "price": 30000,
+    "available": true
+  },
+  {
+    "id": 18,
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": 2018,
+    "color": "Dark Green",
+    "price": 19000,
+    "available": false
+  },
+  {
+    "id": 19,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2020,
+    "color": "Silver",
+    "price": 45000,
+    "available": true
+  },
+  {
+    "id": 20,
+    "make": "Audi",
+    "model": "Q5",
+    "year": 2021,
+    "color": "Dark Blue",
+    "price": 42000,
+    "available": false
+  }
+]
