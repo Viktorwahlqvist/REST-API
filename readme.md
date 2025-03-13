@@ -97,11 +97,11 @@ Denna endpoint skapar en ny bil med följande egenskaper:
 
 **Request body (JSON, obligatoriska fält):**
 
-- `make` _(sträng)_ -
-- `model` _(sträng)_ -
-- `year` _(nummer)_ -
-- `color` _(sträng)_ -
-- `price` _(nummer)_ -
+- `make` _(string)_ -
+- `model` _(string)_ -
+- `year` _(number)_ -
+- `color` _(string)_ -
+- `price` _(number)_ -
 - `available` _(boolean)_ -
 
 ```json
