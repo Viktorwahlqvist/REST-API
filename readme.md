@@ -1,8 +1,18 @@
 # API Dokumentation - Användarhantering
 
+## CLone
+
+```bash
+gh repo clone Viktorwahlqvist/REST-API
+```
+
 ## Installation
 
 För att installera projektets beroenden, kör följande kommando:
+
+```
+cd REST-API
+```
 
 ```bash
 npm install
